@@ -1,6 +1,6 @@
 # 👾 YOLO Image Detector
 
-A simple Python script that automatically detects objects in images using YOLOv8. Just drop your images in a folder and run the script—no configuration needed.
+A simple Python script that automatically detects objects in images using YOLOv8n (Nano Model). Just drop your images in a folder and run the script—no configuration needed.
 
 ## 📌 What It Does
 
@@ -119,7 +119,8 @@ It's intended for practice and demonstration purposes.
 
 ## 📝 Notes
 
-* The YOLOv8 model weights (`yolov8n.pt`) are **not included** in this repository
+* The YOLOv8n model weights (`yolov8n.pt`) are **not included** in this repository
 * They will be **downloaded automatically** by Ultralytics in the `weights/` folderon the first run
 * The model file is around 6MB and will be cached locally
+* You can also use Better Models like Yolov8l etc.. It will give better detection but slowe
 * Make sure you have an active internet connection for the first run
