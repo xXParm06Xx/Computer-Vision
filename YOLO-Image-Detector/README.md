@@ -25,6 +25,9 @@ YOLO-Image-Detector/
     ├── image1.jpg
     ├── image2.png
     └── ... here you can add images
+├── Screenshots/
+    └── Before (screenshots before detection)
+    └── After (screenshots after detection)
 ```
 
 ## 🛠️ Setup Instructions
