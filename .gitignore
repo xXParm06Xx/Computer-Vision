@@ -1,0 +1,9 @@
+# gitignore file
+
+# ignoring venv
+*venv/
+env
+
+# for yolov8n.pt
+*.pt
+*.yaml
