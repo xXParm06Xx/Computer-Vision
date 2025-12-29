@@ -3,6 +3,7 @@
 # ignoring venv
 *venv/
 env
+*.venv
 
 # for yolov8n.pt
 *.pt
